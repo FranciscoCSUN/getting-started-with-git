@@ -42,4 +42,4 @@ end Behavioral;
 ```
 
 
-![git status before stage](./img/git_stat.png")
+![git status before stage](./img/git_stat.png)
