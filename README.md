@@ -7,7 +7,7 @@
 <li>VHDL</li>
 <li>Verilog</li>
 </ol>
-[](./img/csun_eng_logo.png)  
+![](./img/csun_eng_logo.png)  
 
 [Francisco Hernandez](https://github.com/FranciscoCSUN)  
 ```VHDL
