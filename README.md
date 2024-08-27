@@ -7,7 +7,7 @@
 <li>VHDL</li>
 <li>Verilog</li>
 </ol>
-<img src="./img/csun_eng_logo.png">  
+[](./img/csun_eng_logo.png)  
 
 [Francisco Hernandez](https://github.com/FranciscoCSUN)  
 ```VHDL
@@ -42,4 +42,4 @@ end Behavioral;
 ```
 
 
-![git status before stage]<img src="./img/git_stat.png">  
+![git status before stage](./img/git_stat.png")
